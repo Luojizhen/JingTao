@@ -39,48 +39,6 @@
 │  │  └─m3_publishsubscribe (发布订阅模式)
 ```
 
-![20200330135542918.png](./img/20200330135542918.png)
-
----
-## 文章
-
-- [blog.yanbingxu.com/2020/08/06/SpringCloud01/](http://blog.yanbingxu.com/2020/08/06/SpringCloud01/): SpringCloud 【01】
-
----
-## 内容
-
-![SpringCloud.png](./img/SpringCloud.png)
-
-### sp05-eureka
-
-![20191029165907586.png](./img/20191029165907586.png)
-
-### sp06-ribbon Ribbon
- 
-![20191029165424201.png](./img/20191029165424201.png)
-
-### sp06-ribbon Hystrix
-
-![20191029165255589.png](./img/20191029165255589.png)
-
-### sp08-hystrix-dashboard
-
-- hystrix dashboard 断路器仪表盘
-
-![20191029165134588.png](./img/20191029165134588.png)
-
-### sp09-feign
-
-![20200401182710247.png](./img/20200401182710247.png)
-
-### sp10-turbine
-
-![20191207225705406.png](./img/20191207225705406.png)
-
-### sp11-zuul
-
-![20191030151939810.png](./img/20191030151939810.png)
-
 ---
 ## 开发环境
 > - Win10
